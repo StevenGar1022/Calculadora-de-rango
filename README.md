@@ -1,2 +1,18 @@
-# Calculadora-de-rango
-Programa en Python para calcular el rango de un conjunto de datos
+# Cálculo del Rango en Estadística Descriptiva
+
+Este proyecto es parte de mi portafolio de evolución en programación. Consiste en un script de Python diseñado para calcular el rango estadístico de dos conjuntos de datos ingresados por el usuario.
+
+## 📝 Descripción
+El programa solicita al usuario una cantidad determinada de números, los almacena en listas y realiza el cálculo matemático del rango (valor máximo - valor mínimo). Incluye una validación mediante manejo de excepciones para asegurar que el cálculo solo se realice si hay datos presentes.
+
+## 🛠️ Conceptos Aplicados
+- Entrada y salida de datos por consola.
+- Estructuras de datos (Listas).
+- Bucles de control (`for`).
+- Manejo de excepciones (`try-except`).
+- Lógica matemática básica.
+
+## 🚀 Instrucciones
+1. Asegúrate de tener instalado Python.
+2. Descarga el archivo `calculo_rango.py`.
+3. Ejecuta el comando: `python calculo_rango.py`
